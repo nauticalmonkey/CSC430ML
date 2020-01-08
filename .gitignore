@@ -42,6 +42,15 @@
 *.idb
 *.pdb
 
+# MAC stuffs
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+Icon
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
